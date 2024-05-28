@@ -1,11 +1,19 @@
-- 🤗 Hi, I’m @Zllsbst aka Zülal
-- 💻 I’m interested in many things like swimming but my main focus is technology
-- ✨ I’m currently learning Web Design and Machine Learning
-- 📫 You can reach me via mail (zulaloz06@gmail.com)
-- 👩‍💻 Pronouns: She/Her
+# Hello, I'm Zülal Öz! 👋
+
+## About Me
+I am a passionate software engineering student at Ankara University, interested in web development, machine learning, and hardware projects. I love exploring new technologies and constantly improving my skills.
+
+## 🛠 Skills and Technologies
+- **Languages**: C, C++, Python
+- **Web Development**: HTML, CSS, JavaScript,
+Figma, Canva
+- **Machine Learning**: Numpy, Pandas, Keras,
+scikit-learn
+- **Tools**: Git, GitHub, JIRA, Trello, Notion
+
+## 📫 Contact Me
+- **Email**: zulaloz06@gmail.com
+- **LinkedIn**: [linkedin.com/in/zulaloz](https://www.linkedin.com/in/zülal-öz/)
+- **GitHub**: [github.com/zulaloz](https://github.com/Zllsbst)
 
 
-<!---
-Zllsbst/Zllsbst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
